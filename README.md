@@ -1,4 +1,4 @@
-##### Connecting Python with Mysql
+### Connecting Python with Mysql
 
 1. Your pip and python should be installed(this is for IDLE)
 2. Your MySQL should also be installed along with Server, Workbench and Shell
@@ -10,7 +10,7 @@
 
 
 
-##### To get the Database in my Local MySQL
+### To get the Database in my Local MySQL
 
 1. Download the sql text file and save it.
 2. Open your MySQL Command Line and create a new Database with name you like.
