@@ -6,7 +6,7 @@
 4. Open CMD (If normal mode doesn't execute please run CMD as administrator)
 5. Type "pip install mysql-connector-python" and press enter and it will take time and then it's show installed successfully.
 
-&#x09;**imp:- good internet connection**
+&emsp;**imp:- good internet connection**
 
 
 
@@ -19,7 +19,7 @@
 5. Open CMD then type "cd and the MySQL bin path you copied"
 6. After the Directory is changed to the MySQL Bin Type "MySQL -u root/YOUR\_MYSQL\_USERNAME -p the new database name< path of the sql text file" click enter. it'll ask your MySQL password and it will take time but after it show the directory path again it is done.
 
-&#x09;**imp:- if this doesn't work run cmd as admin**
+&emsp;**imp:- if this doesn't work run cmd as admin**
 
 
 
